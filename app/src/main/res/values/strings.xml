@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Guess the value</string>
+    <string name="pick_league">Selecciona una liga</string>
+    <string name="record">Récord:</string>
+</resources>
